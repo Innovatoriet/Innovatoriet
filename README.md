@@ -6,3 +6,6 @@ Innovatoriet is a organization started by a group of students under the supervis
 
 ## What is this repo?
 This repository is a space where resources and information related to Innovatoriet can be saved. This includes [[docs/Index|documentation]] on how the it infrastructure is configured and should be managed. Other things stored here are images, videos and documents.
+
+## Links
+[Discord](https://discord.gg/ANzxS9Jk9Z)
