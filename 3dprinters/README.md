@@ -10,7 +10,7 @@ glhf
 glhf
 
 
-### MacOs
+### MacOS
 1. Go to the prusa slicer [download page](https://www.prusa3d.com/page/prusaslicer_424/)
 2. Click "Download for Mac"
 3. Open the installer
