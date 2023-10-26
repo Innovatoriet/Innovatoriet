@@ -1,5 +1,5 @@
 # Innovatoriet
-"What the fuck is that?"
+"And the wonders of duct tape"
 
 ## What is Innovatoriet?
 Innovatoriet is a organization started by a group of students under the supervision of Minervagymnasium with the purpose of developing experimenting and solving technical problems.
