@@ -1,4 +1,13 @@
-# Innovatoriet 3d printing setup
+# Innovatoriet 3d printing
+
+## Setup
+
+### PrusaSlicer
+Prusa slicer is used as the primary slicing software for creating print jobs. Printing is done through [OctoPrint](#octoprint) with a custom profile to allow over network printing.
+To upload a print job to OctoPrint the user must be connected to the Innovatoriet Wifi network. 
+
+### OctoPrint
+OctoPrint is a web based control panel for 3d printers. It works over the local network and can control most asspects of the 3d printers. Normal members usualy never interact directly with OctoPrint but it is used to allow print jobs to be sent to the printer over network instead of using a SD card.
 
 ## Installing Prusa Slicer
 
