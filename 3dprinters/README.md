@@ -26,6 +26,10 @@ glhf
 4. Double click "Original Prusa Drivers"
 5. Drag "PrusaSlicer" to "Applications"
 6. Close and delete the installer
+7. Open PrusaSlicer
+8. Click on "Prusa FFF"
+9. Make sure **the only** printers that are selected are Prusa MK4 (0.4mm) and Prusa MK3S & MK3S+ (0.4mm)
+10. Click Finish
 
 
 ## Installing config bundles
@@ -34,3 +38,4 @@ glhf
 3. Navigate to `file > import > import config bundle`
 4. Choose the downloaded config bundle (usualy in the downloads folder)
 5. Click open
+6. If no error apeared the profiles should now be installed and can (depending on the profile) be found under ht different presets.
