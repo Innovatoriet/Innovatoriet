@@ -18,7 +18,7 @@ Haven't printed on innovatoriet before and want to test? Follow this guide to pr
 2. Open Prusa Slicer
 3. Go to `File > import > import (STL/3MF/...)`
 4. Select the downloaded stl file
-5. Click slice at the bottom right corner
+5. Click `Slice` at the bottom right corner
 6. Make sure you are connected to `Innovatoriet` WIFI
 7. Click `Send to printer` (its the small G symbol beside `Export G-code` at the bottom right)
 8. Click `Upload and Print`
