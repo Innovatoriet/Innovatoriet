@@ -58,4 +58,4 @@ glhf
 3. Navigate to `file > import > import config bundle`
 4. Choose the downloaded config bundle (usualy in the downloads folder)
 5. Click open
-6. If no error apeared the profiles should now be installed and can (depending on the profile) be found under ht different presets.
+6. If no error apeared the profiles should now be installed and can (depending on the profile) be found under the different presets.
