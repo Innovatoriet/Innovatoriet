@@ -24,7 +24,7 @@ Haven't printed on innovatoriet before and want to test? Follow this guide to pr
 8. Click `Upload and Print`
 
 Your print is now being printed!
-It takes a while before the printer starts moving as it has to heat itself first. You can see heating progres on the printers display
+It takes a while before the printer starts moving as it has to heat itself first. You can see heating progres on the printers display.
 When its done heating the print should begin.
 
 ## Installing Prusa Slicer
