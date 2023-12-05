@@ -53,9 +53,11 @@ glhf
 
 
 ## Installing config bundles
-1. Download the desired config from /configs
-2. Open PrusaSlicer
-3. Navigate to `file > import > import config bundle`
-4. Choose the downloaded config bundle (usualy in the downloads folder)
-5. Click open
-6. If no error apeared the profiles should now be installed and can (depending on the profile) be found under the different presets.
+1. Download the desired config bundle from [/configs](https://github.com/Innovatoriet/Innovatoriet/tree/main/3dprinters/configs)
+   - Config bundles have `.ini` as file extension.
+3. Open PrusaSlicer
+4. Navigate to `file > import > import config bundle`
+   - Note: Make sure to pick "import config **bundle**" and not "import config". The import will not work otherwise.
+5. Choose the downloaded config bundle (usualy in the downloads folder)
+6. Click open
+7. If no error apeared the config should now be installed.
