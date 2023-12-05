@@ -3,8 +3,7 @@
 ## Setup
 
 ### PrusaSlicer
-Prusa slicer is used as the primary slicing software for creating print jobs. Printing is done through [OctoPrint](#octoprint) with a custom profile to allow over network printing.
-To upload a print job to OctoPrint the user must be connected to the Innovatoriet Wifi network.
+Prusa slicer is used as the primary slicing software for creating print jobs. Print jobs are sent over network to [OctoPrint](#octoprint) using a custom profile with the required settings to send the files. To upload a print job to OctoPrint the user must be connected to the Innovatoriet Wifi network.
 
 To use PrusaSlicer, follow [this guide](#installing-prusa-slicer) to install and [this guide](#installing-config-bundles) to import the required settings.
 After following the install and setup guides, its recomended to follow [this guide](#test-print) to get something going right away without to much effort.
