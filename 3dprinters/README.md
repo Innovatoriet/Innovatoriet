@@ -10,7 +10,7 @@ To use PrusaSlicer, follow [this guide](#installing-prusa-slicer) to install and
 After following the install and setup guides, its recomended to follow [this guide](#test-print) to get something going right away without to much effort.
 
 ### OctoPrint
-OctoPrint is a web based control panel for 3d printers. It works over the local network and can control most asspects of the 3d printers. Normal members usualy never interact directly with OctoPrint but it is used to allow print jobs to be sent to the printer over network instead of using a SD card.
+OctoPrint is a web based control panel for 3d printers. It works over the local network and can control most asspects of the 3d printer. Normal members usualy never interact directly with the OctoPrint controll panel but it is used to allow print jobs to be sent over network instead of using an SD card.
 
 ## Test print
 Haven't printed on innovatoriet before and want to test? Follow this guide to print your first part
