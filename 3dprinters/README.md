@@ -57,7 +57,7 @@ glhf
    - Config bundles have `.ini` as file extension.
 3. Open PrusaSlicer
 4. Navigate to `file > import > import config bundle`
-   - IMPORTANT: Make sure to pick "import config **bundle**" and not "import config". The import will not work otherwise.
+   - **IMPORTANT**: Make sure to pick "import config **bundle**" and not "import config". The import will not work otherwise.
 5. Choose the downloaded config bundle (usualy in the downloads folder)
 6. Click open
 7. If no error apeared the config should now be installed.
