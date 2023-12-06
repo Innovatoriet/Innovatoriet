@@ -20,11 +20,9 @@ Haven't printed on innovatoriet before and want to test? Follow this guide to pr
 5. Click `Slice` at the bottom right corner
 6. Make sure you are connected to `Innovatoriet` WIFI
 7. Click `Send to printer` (its the small G symbol beside `Export G-code` at the bottom right)
-8. Click `Upload and Print`
+8. Click `Upload to Queue`
 
 Your print is now being printed!
-It takes a while before the printer starts moving as it has to heat itself first. You can see heating progres on the printers display.
-When its done heating the print should begin.
 
 ## Installing Prusa Slicer
 
@@ -46,8 +44,8 @@ glhf
 7. Open PrusaSlicer
 8. Click on "Prusa FFF"
 9. Make sure **the only** printers that are selected are:
-  - *Prusa MK4 (0.4mm)*
-  - *Prusa MK3S & MK3S+ (0.4mm)*
+  - *Original Prusa MK4 Input Shaper (0.4mm)*
+  - *Original Prusa MK3S & MK3S+ (0.4mm)*
 11. Click Finish
 
 
