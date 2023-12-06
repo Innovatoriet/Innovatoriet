@@ -3,14 +3,13 @@
 ## Setup
 
 ### PrusaSlicer
-Prusa slicer is used as the primary slicing software for creating print jobs. Printing is done through [OctoPrint](#octoprint) with a custom profile to allow over network printing.
-To upload a print job to OctoPrint the user must be connected to the Innovatoriet Wifi network.
+Prusa slicer is used as the primary slicing software for creating print jobs. Print jobs are sent over network to [OctoPrint](#octoprint) using a custom profile with the required settings to send the files. To upload a print job to OctoPrint the user must be connected to the Innovatoriet Wifi network.
 
 To use PrusaSlicer, follow [this guide](#installing-prusa-slicer) to install and [this guide](#installing-config-bundles) to import the required settings.
 After following the install and setup guides, its recomended to follow [this guide](#test-print) to get something going right away without to much effort.
 
 ### OctoPrint
-OctoPrint is a web based control panel for 3d printers. It works over the local network and can control most asspects of the 3d printers. Normal members usualy never interact directly with OctoPrint but it is used to allow print jobs to be sent to the printer over network instead of using a SD card.
+OctoPrint is a web based control panel for 3d printers. It works over the local network and can control most asspects of the 3d printer. Normal members usualy never interact directly with the OctoPrint controll panel but it is used to allow print jobs to be sent over network instead of using an SD card.
 
 ## Test print
 Haven't printed on innovatoriet before and want to test? Follow this guide to print your first part
@@ -24,7 +23,7 @@ Haven't printed on innovatoriet before and want to test? Follow this guide to pr
 8. Click `Upload and Print`
 
 Your print is now being printed!
-It takes a while before the printer starts moving as it has to heat itself first. You can see heating progres on the printers display
+It takes a while before the printer starts moving as it has to heat itself first. You can see heating progres on the printers display.
 When its done heating the print should begin.
 
 ## Installing Prusa Slicer
@@ -53,9 +52,11 @@ glhf
 
 
 ## Installing config bundles
-1. Download the desired config from /configs
-2. Open PrusaSlicer
-3. Navigate to `file > import > import config bundle`
-4. Choose the downloaded config bundle (usualy in the downloads folder)
-5. Click open
-6. If no error apeared the profiles should now be installed and can (depending on the profile) be found under ht different presets.
+1. Download the desired config bundle from [/configs](https://github.com/Innovatoriet/Innovatoriet/tree/main/3dprinters/configs)
+   - Config bundles have `.ini` as file extension.
+3. Open PrusaSlicer
+4. Navigate to `file > import > import config bundle`
+   - **IMPORTANT**: Make sure to pick "import config **bundle**" and not "import config". The import will not work otherwise.
+5. Choose the downloaded config bundle (usualy in the downloads folder)
+6. Click open
+7. If no error apeared the config should now be installed.
