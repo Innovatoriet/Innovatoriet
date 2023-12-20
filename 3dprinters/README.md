@@ -8,8 +8,8 @@ Prusa slicer is used as the primary slicing software for creating print jobs. Pr
 To use PrusaSlicer, follow [this guide](#installing-prusa-slicer) to install and [this guide](#installing-config-bundles) to import the required settings.
 After following the install and setup guides, its recomended to follow [this guide](#test-print) to get something going right away without to much effort.
 
-### OctoPrint
-OctoPrint is a web based control panel for 3d printers. It works over the local network and can control most asspects of the 3d printer. Normal members usualy never interact directly with the OctoPrint controll panel but it is used to allow print jobs to be sent over network instead of using an SD card.
+### PrusaConnect
+PrusaConnect is a web based control panel for 3d printers made by prusa. :
 
 ## Test print
 Haven't printed on innovatoriet before and want to test? Follow this guide to print your first part
@@ -18,9 +18,8 @@ Haven't printed on innovatoriet before and want to test? Follow this guide to pr
 3. Go to `File > import > import (STL/3MF/...)`
 4. Select the downloaded stl file
 5. Click `Slice` at the bottom right corner
-6. Make sure you are connected to `Innovatoriet` WIFI
-7. Click `Send to printer` (its the small G symbol beside `Export G-code` at the bottom right)
-8. Click `Upload to Queue`
+6. Click `Send to printer` (its the small G symbol beside `Export G-code` at the bottom right)
+7. Click `Upload to Queue`
 
 Your print is now being printed!
 
